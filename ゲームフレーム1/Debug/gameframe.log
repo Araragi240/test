@@ -1,0 +1,20 @@
+﻿2014/10/21 1:34:55 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\araragi\Desktop\クリエイティブゼミ６、７\ゲームフレーム\gameframe.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/" /Fd".\Debug/vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ParticleApplication.cpp Sprite3D.cpp
+         Sprite3D.cpp
+         ParticleApplication.cpp
+         コードを生成中...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug/gameframe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug/game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\Debug\gameframe.lib" /MACHINE:X86 /SAFESEH .\Debug/DrawSprite3D.obj
+         .\Debug/game.obj
+         .\Debug/main.obj
+         .\Debug/ParticleApplication.obj
+         .\Debug/Sprite3D.obj
+     1>DrawSprite3D.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+         gameframe.vcxproj -> C:\Users\araragi\Desktop\クリエイティブゼミ６、７\ゲームフレーム\.\Debug\gameframe.exe
+     1>プロジェクト "C:\Users\araragi\Desktop\クリエイティブゼミ６、７\ゲームフレーム\gameframe.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:25.55
